@@ -38,6 +38,10 @@
     "contenido_blog": {
       "type": "richtext",
       "required": true
+    },
+    "url": {
+      "type": "uid",
+      "targetField": "titulo_blog"
     }
   }
 }
