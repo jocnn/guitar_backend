@@ -22,8 +22,7 @@
     },
     "resumen_blog": {
       "type": "richtext",
-      "required": true,
-      "maxLength": 500
+      "required": true
     },
     "imagen_blog": {
       "model": "file",
